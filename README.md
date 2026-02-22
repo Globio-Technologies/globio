@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cloud.stanlink.online/globio/images/brand/InShot_20260223_003142226.jpg" alt="Globio Logo" width="100" />
+  <img src="https://cloud.stanlink.online/globio/images/brand/globio-icon-transparent.png" alt="Globio Logo" width="100" />
 </p>
 
 <h1 align="center">Globio</h1>
