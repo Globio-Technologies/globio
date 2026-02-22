@@ -170,7 +170,7 @@ Globio is currently in active development. Contributions, feedback, and ideas ar
 
 ## License
 
-Apache 2.0 — see [LICENSE](./LICENSE) for details.
+StaNLink — see [LICENSE](./LICENSE) for details.
 
 ---
 
